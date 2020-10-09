@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### My name is Andrey Sinitsyn
-From :ru: St. Petersburg.
+From St. Petersburg (:ru:).
 
 I'm currently learning C# language, .NET Core to became a really good developer.
 
-## Technical skills
+## Basic technical skills
 
-![](https://img.shields.io/badge/OS-WindowsServer-informational?style=plastik&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Code-C#-informational?style=plastik&logo=csharp&logoColor=white)
