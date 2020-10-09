@@ -7,6 +7,7 @@ I'm currently learning C# language, .NET Core to became a really good developer.
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=plastik&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=plastik&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/Code-Git-informational?style=plastik&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Code-Visual_Studio-informational?style=plastik&logo=visual-studio&logoColor=white)
+![](https://img.shields.io/badge/DB-SQL-informational?style=plastik&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/Tools-Git-informational?style=plastik&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Editors-Visual_Studio-informational?style=plastik&logo=visual-studio&logoColor=white)
 
